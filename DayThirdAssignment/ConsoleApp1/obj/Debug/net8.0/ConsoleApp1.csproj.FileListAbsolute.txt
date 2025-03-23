@@ -1,0 +1,15 @@
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\TOT-Training\DOTNET\DayThirdAssignment\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
